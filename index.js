@@ -1,3 +1,5 @@
 function produceDrivingRange(range){
-  r
+  return function rangeCalculator(){
+    
+  }
 }
