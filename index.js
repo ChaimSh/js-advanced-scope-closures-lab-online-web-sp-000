@@ -1,5 +1,5 @@
 function produceDrivingRange(blockRange){
-  return function rangeCalculator(begin, end){
+  return function (begin, end){
     let start = parseInt( begin );
     let end = parseInt( end );
     let distanceToTravel = Math.abs(end - start);
